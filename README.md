@@ -1,4 +1,7 @@
-# test coverage for  [adm-zip (v0.4.7)](http://github.com/cthackers/adm-zip)  [![npm package](https://img.shields.io/npm/v/npmtest-adm-zip.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-adm-zip) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-adm-zip.svg)](https://travis-ci.org/npmtest/node-npmtest-adm-zip)
+# npmtest-adm-zip
+
+#### basic test coverage for  [adm-zip (v0.4.7)](http://github.com/cthackers/adm-zip)  [![npm package](https://img.shields.io/npm/v/npmtest-adm-zip.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-adm-zip) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-adm-zip.svg)](https://travis-ci.org/npmtest/node-npmtest-adm-zip)
+
 #### A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk
 
 [![NPM](https://nodei.co/npm/adm-zip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/adm-zip)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-adm-zip/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-adm-zip/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-adm-zip/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-adm-zip/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-adm-zip/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-adm-zip/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-adm-zip/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-adm-zip/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-adm-zip/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-adm-zip/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-adm-zip/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-adm-zip/build/coverage.html/index.html)
 
@@ -85,7 +88,8 @@
         "url": "git+https://github.com/cthackers/adm-zip.git"
     },
     "scripts": {},
-    "version": "0.4.7"
+    "version": "0.4.7",
+    "bin": {}
 }
 ```
 
